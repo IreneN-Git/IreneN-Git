@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Irene Nasiimwe
-- 👀 I’m interested in Data Science and analytics 
-- 🌱 I’m currently exploring R, python and SQL on interesting projects
+- 👀 I’m passionate about Data Science and analytics space
+- 🌱 And currently exploring R, python and SQL on interesting projects
 - 💞️ I’m looking to collaborate on any data related projects that require application of the mention languages
 - 📫 Feel free to reach me 
 
