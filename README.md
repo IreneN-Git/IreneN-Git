@@ -28,7 +28,7 @@ Here are some of the projects I have worked on:
 
 ## Contact
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/irene-nasiimwe) or [Email](mailto:irenenasiimwe@gmail.com).
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/irene-nasiimwe) <!-- or [Email](mailto:irenenasiimwe@gmail.com).-->
 
 
 <!---
