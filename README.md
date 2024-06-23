@@ -14,6 +14,8 @@ Here are some of the projects I have worked on:
 
 - [Property Price Estimation](https://github.com/IreneN-Git/Property-Price-Estimation)
 - [Customer Churn Classification](https://github.com/IreneN-Git/Customer-Churn-Classification)
+- [Airport Operations Dashboard](https://github.com/IreneN-Git/Airport-Operations-Dashboard)
+- [Airport Retail Sales Analysis](https://github.com/IreneN-Git/Retails-Sales-Analysis)
 <!-- - [Predictive Maintenance for Airport Operations](https://github.com/your_username/Predictive-Maintenance)
 - [Retail Sales Forecasting](https://github.com/your_username/Retail-Sales-Forecasting)
 - <!--[Customer Segmentation for Targeted Marketing](https://github.com/your_username/Customer-Segmentation)-->
@@ -24,7 +26,7 @@ Here are some of the projects I have worked on:
 - **Machine Learning**: Scikit-learn, Pandas, Numpy
 - **Data Visualization**: Power BI, Matplotlib, Seaborn
 - **Data Management**: Data modeling, Data governance, Data integration, Azure databricks
-- **Other skilss**: Teamwork, Leadership, Communication, Agile project management
+- **Other skills**: Teamwork, Leadership, Communication, Agile project management
 
 ## Contact
 
