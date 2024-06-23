@@ -6,7 +6,7 @@
 
 # Welcome to My GitHub Profile
 
-As a seasoned Data Analyst and Data Scientist with over 3 years of hands-on experience, I specialize in leveraging advanced analytics, machine learning, and business intelligence tools to derive actionable insights from large, diverse datasets. My expertise includes building robust and scalable data solutions using Power BI, SQL, Python, and other analytical tools. With a strong background in data modeling, data governance and data visualization, I am adept at driving data-driven decision-making across various business domains. I am passionate about fostering a data-driven culture and empowering organizations through effective data storytelling and innovative analytical solutions to solve business problems.
+As a seasoned Data Analyst and Data Scientist with over 3 years of hands-on experience across various domains and currently in aviation, I specialize in leveraging advanced analytics, machine learning, and business intelligence tools to derive actionable insights from large, diverse datasets. My expertise includes building robust and scalable data solutions using Power BI, SQL, Python, and other analytical tools. With a strong background in data modeling, data governance and data visualization, I am adept at driving data-driven decision-making across various business domains. I am passionate about fostering a data-driven culture and empowering organizations through effective data storytelling and innovative analytical solutions to solve business problems.
 
 ## Projects
 
