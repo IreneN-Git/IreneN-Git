@@ -13,7 +13,7 @@ As a seasoned Data Analyst and Data Scientist with over 3 years of hands-on expe
 Here are some of the projects I have worked on:
 
 - [Property Price Estimation](https://github.com/IreneN-Git/Property-Price-Estimation)
-- [Customer Churn Classification](https://github.com/your_username/Customer-Churn-Classification)
+- [Customer Churn Classification](https://github.com/IreneN-Git/Customer-Churn-Classification)
 <!-- - [Predictive Maintenance for Airport Operations](https://github.com/your_username/Predictive-Maintenance)
 - [Retail Sales Forecasting](https://github.com/your_username/Retail-Sales-Forecasting)
 - <!--[Customer Segmentation for Targeted Marketing](https://github.com/your_username/Customer-Segmentation)-->
