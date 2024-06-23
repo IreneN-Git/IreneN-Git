@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Irene Nasiimwe
 - 👀 I’m passionate about Data Science and analytics space
-- 🌱 And currently exploring R, python and SQL on interesting projects
-- 💞️ I’m looking to collaborate on any data related projects that require application of the mention languages
+- 🌱 And currently exploring R, python, SQL and AI on interesting projects
+- 💞️ I’m looking to collaborate on any data related projects that require application of the mentioned languages
 - 📫 Feel free to reach me 
 
 # Welcome to My GitHub Profile
