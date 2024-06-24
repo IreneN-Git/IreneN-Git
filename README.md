@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Irene Nasiimwe
-- 👀 I’m passionate about Data Science and analytics space
+# 👋 Hi, I’m Irene 
+- 👀 I’m interested in the Data Science and analytics space
 - 🌱 And currently exploring R, python, SQL and AI on interesting projects
 - 💞️ I’m looking to collaborate on any data related projects that require application of the mentioned languages
 - 📫 Feel free to reach me 
@@ -23,7 +23,7 @@ Here are some of the projects I have worked on:
 ## Skills
 
 - **Data Analysis**: Power BI, SQL, Python, R
-- **Machine Learning**: Scikit-learn, Pandas, Numpy
+- **Machine Learning**: Scikit-learn, Pandas, Numpy, Caret
 - **Data Visualization**: Power BI, Matplotlib, Seaborn
 - **Data Management**: Data modeling, Data governance, Data integration, Azure databricks
 - **Other skills**: Teamwork, Leadership, Communication, Agile project management
